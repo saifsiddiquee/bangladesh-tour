@@ -1,36 +1,116 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Beautiful Bangladesh 🇧🇩
 
-## Getting Started
+A modern, interactive web application showcasing the breathtaking destinations, rich cultural heritage, diverse ecosystems, and vibrant festivals of Bangladesh.
 
-First, run the development server:
+![Next.js](https://img.shields.io/badge/Next.js-16.2-black?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-06B6D4?style=flat-square&logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.4-0055FF?style=flat-square&logo=framer)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+---
+
+## 🌟 Overview
+
+**Beautiful Bangladesh** is built to promote tourism, geography, and cultural discovery across all 8 administrative divisions of Bangladesh. From the world's longest natural sea beach in Cox's Bazar to the mangrove wilderness of the Sundarbans and tea gardens of Sylhet, this platform offers an immersive visual experience for travelers and enthusiasts.
+
+---
+
+## ✨ Features
+
+- 🗺️ **Interactive Division Maps**: Explore Bangladesh division-by-division (Dhaka, Chittagong, Sylhet, Khulna, Rajshahi, Rangpur, Barisal, Mymensingh) with custom GeoJSON boundary rendering.
+- 🏖️ **Destination Discovery**: Comprehensive guides for top tourist spots, complete with location highlights, best times to visit, and travel tips.
+- 📚 **Travel Guides & itineraries**: Curated articles covering eco-tourism, heritage sites, adventure travel, and budget recommendations.
+- 🎉 **Festivals & Cultural Heritage**: Explore seasonal festivals, traditional foods, folk art, and historical monuments.
+- 🔍 **Instant Search & Filtering**: Fast client-side search across destinations, categories, and geographic locations.
+- ⚡ **Performant & Animated UI**: Built with Next.js App Router, Framer Motion, and GSAP for micro-animations and responsive layouts.
+- 📱 **Fully Responsive**: Optimized for desktops, tablets, and mobile screens with dark/light visual elegance.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework**: [Next.js 16](https://nextjs.org/) (App Router)
+- **UI Library**: [React 19](https://react.dev/)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/) & [GSAP](https://gsap.com/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Geographic Data**: [bangladesh-geojson](https://github.com/ifahimreza/bangladesh-geojson)
+
+---
+
+## 📁 Directory Structure
+
+```text
+beautiful-bangladesh/
+├── data/                    # JSON data (destinations, divisions, guides, festivals, maps)
+├── public/                  # Static assets and images
+├── src/
+│   ├── app/                 # Next.js App Router pages and API routes
+│   │   ├── about/           # About page
+│   │   ├── categories/      # Category pages
+│   │   ├── destinations/    # Destination detail pages
+│   │   ├── divisions/       # Division-specific pages
+│   │   ├── guides/          # Travel guide articles
+│   │   ├── search/          # Search interface
+│   │   ├── layout.tsx       # Root layout
+│   │   └── page.tsx         # Homepage
+│   ├── components/          # React components
+│   │   ├── destinations/    # Destination cards & filters
+│   │   ├── home/            # Hero, map, and section components
+│   │   ├── layout/          # Navbar, Footer, and Navigation
+│   │   ├── search/          # Search bar & results
+│   │   └── ui/              # Reusable UI primitives
+│   ├── hooks/               # Custom React hooks
+│   └── lib/                 # Helper utilities and data loaders
+├── package.json
+└── tsconfig.json
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Getting Started
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Prerequisites
 
-## Learn More
+Ensure you have **Node.js 18.x** or later installed.
 
-To learn more about Next.js, take a look at the following resources:
+### Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/beautiful-bangladesh.git
+   cd beautiful-bangladesh
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
 
-## Deploy on Vercel
+3. **Start the development server**:
+   ```bash
+   npm run dev
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. **View in Browser**:
+   Open [http://localhost:3000](http://localhost:3000) to see the application.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📜 Scripts
+
+| Command | Description |
+| :--- | :--- |
+| `npm run dev` | Runs the Next.js development server at `http://localhost:3000` |
+| `npm run build` | Creates an optimized production build |
+| `npm run start` | Starts the production server |
+| `npm run lint` | Runs ESLint to check for code quality and style issues |
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
