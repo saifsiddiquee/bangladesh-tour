@@ -1,0 +1,149 @@
+[
+  {
+    "id": "guide-01",
+    "title": "First Time in Bangladesh: A Complete Travel Guide",
+    "slug": "first-time-in-bangladesh",
+    "excerpt": "Everything you need to know before visiting Bangladesh for the first time.",
+    "content": "Bangladesh is a land of vibrant culture, rich history, and stunning natural beauty. From the bustling streets of Dhaka to the serene tea gardens of Sylhet, there is something for every traveler.\n\nWhen planning your first trip, consider starting in Dhaka to immerse yourself in the country's heritage. Then, make your way to natural wonders like the Sundarbans and Cox's Bazar.\n\nAlways carry some local currency (Taka), respect local customs, and don't miss out on trying traditional Bengali cuisine, which is known for its rich flavors and spices.\n\nFinally, the hospitality of the Bangladeshi people is unparalleled. Locals are always willing to help and welcome visitors with open arms.",
+    "author": "Beautiful Bangladesh Team",
+    "publishedDate": "2023-10-01T10:00:00Z",
+    "readingTime": "5 min read",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80",
+      "alt": "Travel Guide Hero Image",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "relatedDestinations": [
+      "dhaka",
+      "coxs-bazar",
+      "sundarbans"
+    ],
+    "tags": [
+      "Travel Tips",
+      "Beginner",
+      "Culture"
+    ],
+    "seo": {
+      "title": "First Time in Bangladesh: Travel Guide",
+      "description": "A complete guide for first-time visitors to Bangladesh.",
+      "keywords": [
+        "bangladesh travel",
+        "guide",
+        "first time"
+      ]
+    }
+  },
+  {
+    "id": "guide-02",
+    "title": "The Ultimate Cox's Bazar & Chittagong Hill Tracts Itinerary",
+    "slug": "coxs-bazar-chittagong-itinerary",
+    "excerpt": "A perfect 7-day itinerary for exploring the best of the coast and hills.",
+    "content": "Start your journey in Cox's Bazar, enjoying the world's longest unbroken sea beach. Spend your first two days relaxing by the ocean, sampling fresh seafood, and watching incredible sunsets.\n\nOn day three, take a trip down Marine Drive to Inani Beach for a more secluded experience, or visit the Himchari waterfalls.\n\nFor the remainder of your week, head into the Chittagong Hill Tracts. Bandarban and Rangamati offer breathtaking landscapes, indigenous cultural experiences, and peaceful lakes.\n\nDon't forget to pack comfortable trekking shoes, as the hills provide some of the best hiking trails in the country.",
+    "author": "Beautiful Bangladesh Team",
+    "publishedDate": "2023-10-15T10:00:00Z",
+    "readingTime": "7 min read",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80",
+      "alt": "Cox's Bazar & Chittagong Hill Tracts",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "relatedDestinations": [
+      "coxs-bazar",
+      "bandarban",
+      "rangamati"
+    ],
+    "tags": [
+      "Itinerary",
+      "Beaches",
+      "Hills"
+    ],
+    "seo": {
+      "title": "7-Day Cox's Bazar & Chittagong Hill Tracts Itinerary",
+      "description": "Explore the best of Bangladesh's coast and hills with this 7-day itinerary.",
+      "keywords": [
+        "cox's bazar",
+        "chittagong hill tracts",
+        "itinerary"
+      ]
+    }
+  },
+  {
+    "id": "guide-03",
+    "title": "Exploring the Sundarbans: A Wildlife Adventure",
+    "slug": "exploring-the-sundarbans",
+    "excerpt": "Dive deep into the world's largest mangrove forest.",
+    "content": "The Sundarbans, a UNESCO World Heritage site, is the largest continuous mangrove forest in the world and home to the majestic Royal Bengal Tiger.\n\nAn adventure here typically involves a multi-day boat cruise, navigating through intricate networks of tidal waterways, mudflats, and small islands of salt-tolerant mangrove forests.\n\nKeep your eyes peeled for spotted deer, crocodiles, various species of birds, and if you're incredibly lucky, the elusive tiger.\n\nIt is highly recommended to book your tour with a reputable operator who prioritizes eco-friendly practices and safety.",
+    "author": "Beautiful Bangladesh Team",
+    "publishedDate": "2023-11-05T10:00:00Z",
+    "readingTime": "6 min read",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=80",
+      "alt": "Sundarbans Wildlife Adventure",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "relatedDestinations": [
+      "sundarbans",
+      "bagerhat"
+    ],
+    "tags": [
+      "Wildlife",
+      "Adventure",
+      "Nature"
+    ],
+    "seo": {
+      "title": "Exploring the Sundarbans: Wildlife Adventure",
+      "description": "A comprehensive guide to exploring the Sundarbans mangrove forest.",
+      "keywords": [
+        "sundarbans",
+        "mangrove",
+        "wildlife adventure"
+      ]
+    }
+  },
+  {
+    "id": "guide-04",
+    "title": "Tea Trail of Sylhet: A Cultural Journey",
+    "slug": "tea-trail-of-sylhet",
+    "excerpt": "Discover the lush green tea gardens and serene landscapes of Sylhet.",
+    "content": "Sylhet is known as the land of 'two leaves and a bud', boasting endless rolling hills covered in vibrant green tea bushes. A visit here is a peaceful retreat from city life.\n\nBegin your journey in Srimangal, the tea capital of Bangladesh. Visit the Tea Museum, cycle through the gardens, and enjoy the famous seven-layer tea at Nilkantha Tea Cabin.\n\nBeyond tea, Sylhet offers natural wonders like Ratargul Swamp Forest and the crystal clear waters of Jaflong.\n\nThe best time to visit is during the monsoon or right after, when the greenery is at its most vibrant and lush.",
+    "author": "Beautiful Bangladesh Team",
+    "publishedDate": "2023-11-20T10:00:00Z",
+    "readingTime": "5 min read",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=1200&q=80",
+      "alt": "Tea Trail of Sylhet",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "relatedDestinations": [
+      "sylhet-tea-gardens",
+      "srimangal",
+      "ratargul-swamp-forest"
+    ],
+    "tags": [
+      "Tea Gardens",
+      "Nature",
+      "Relaxation"
+    ],
+    "seo": {
+      "title": "Tea Trail of Sylhet: A Cultural Journey",
+      "description": "Discover the beautiful tea gardens and natural landscapes of Sylhet.",
+      "keywords": [
+        "sylhet",
+        "tea gardens",
+        "srimangal"
+      ]
+    }
+  }
+]

@@ -1,0 +1,1597 @@
+[
+  {
+    "id": "dest-001",
+    "name": "Cox's Bazar",
+    "slug": "coxs-bazar",
+    "shortDescription": "Home to the world's longest unbroken sea beach stretching 120km along the Bay of Bengal.",
+    "detailedDescription": "Cox's Bazar is a town on the southeast coast of Bangladesh, widely known for its long, continuous natural sandy beach. Stretching roughly 120 kilometers, it is the undisputed tourist capital of the country, drawing millions of visitors each year to its golden shores and rolling waves.\n\nBeyond the main beach, the area boasts stunning natural landscapes including the lush hills of Himchari and the rocky shores of Inani Beach. Visitors can enjoy spectacular sunsets, fresh and affordable seafood, and a lively local market culture that offers traditional handicrafts and garments.\n\nThe destination offers a mix of relaxation and adventure. Whether you prefer lounging under an umbrella, surfing the Bay of Bengal's waves, or exploring nearby islands, Cox's Bazar serves as the perfect base for an unforgettable coastal getaway.",
+    "division": "chittagong",
+    "district": "Cox's Bazar",
+    "category": [
+      "beaches"
+    ],
+    "coordinates": {
+      "lat": 21.4272,
+      "lng": 92.0058
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1658139657766-3ba1adc5a010",
+      "alt": "Cox's Bazar beach at sunset",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=1200&q=80",
+        "alt": "Cox's Bazar - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=1200&q=80",
+        "alt": "Cox's Bazar - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1200&q=80",
+        "alt": "Cox's Bazar - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1476610182048-b716b8518aae?w=1200&q=80",
+        "alt": "Cox's Bazar - Image 4",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "November to March",
+    "entryFee": "Free",
+    "openingHours": "Open 24 hours",
+    "travelTips": [
+      "Avoid swimming too far out during high tide.",
+      "Try the local fried Pomfret and Rupchanda fish.",
+      "Book hotels in advance during the peak winter season.",
+      "Take a marine drive to Inani Beach for a scenic road trip.",
+      "Respect local culture by dressing modestly away from the immediate beach zones.",
+      "Bargain politely at the local Burmese markets."
+    ],
+    "nearbyAttractions": [
+      "saint-martins-island",
+      "inani-beach"
+    ],
+    "transportationGuide": "Accessible by direct domestic flights from Dhaka, or luxury sleeper buses.",
+    "recommendedDuration": "3-4 days",
+    "activities": [
+      "Swimming",
+      "Surfing",
+      "Parasailing",
+      "Beach ATV Riding"
+    ],
+    "weather": {
+      "summer": "Hot and humid, 30-35°C",
+      "monsoon": "Heavy rainfall, avoid beach activities",
+      "winter": "Pleasant, 15-25°C, ideal for visiting"
+    },
+    "seo": {
+      "title": "Cox's Bazar - World's Longest Sea Beach | Beautiful Bangladesh",
+      "description": "Explore Cox's Bazar, the longest natural sea beach in the world located in Bangladesh.",
+      "keywords": [
+        "cox's bazar",
+        "beach",
+        "bangladesh tourism",
+        "longest beach"
+      ]
+    },
+    "youtubeVideoUrl": "https://youtu.be/zCSmY_WjvPs?si=9yCQCo5m3YKupjhJ"
+  },
+  {
+    "id": "dest-002",
+    "name": "Sundarbans",
+    "slug": "sundarbans",
+    "shortDescription": "The world's largest mangrove forest and home to the majestic Royal Bengal Tiger.",
+    "detailedDescription": "The Sundarbans, a UNESCO World Heritage Site, is a vast network of mangrove forests, mudflats, and tidal waterways situated in the delta of the Ganges, Brahmaputra, and Meghna rivers. It covers a vast area in southwestern Bangladesh, acting as a critical ecological buffer and a unique natural wonder.\n\nThis incredible ecosystem is globally renowned as the primary habitat of the elusive Royal Bengal Tiger. Additionally, it hosts a rich biodiversity, including spotted deer, saltwater crocodiles, rhesus macaques, and hundreds of species of rare birds, making it a paradise for wildlife enthusiasts and photographers.\n\nNavigating the Sundarbans involves multi-day boat tours through narrow creeks and silent rivers. The serene environment, interrupted only by the calls of wild animals, offers a profoundly immersive experience into one of the most untamed environments left on Earth.",
+    "division": "khulna",
+    "district": "Khulna/Bagerhat",
+    "category": [
+      "forests-wildlife",
+      "unesco-world-heritage"
+    ],
+    "coordinates": {
+      "lat": 21.9497,
+      "lng": 89.1833
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1706459671568-9809c9d13430",
+      "alt": "Sundarbans Mangrove Forest",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1542273917363-1f3e5ce0aafa?w=1200&q=80",
+        "alt": "Sundarbans - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1200&q=80",
+        "alt": "Sundarbans - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=1200&q=80",
+        "alt": "Sundarbans - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "October to March",
+    "entryFee": "Tour packages vary",
+    "openingHours": "Varies by tour schedule",
+    "travelTips": [
+      "Always travel with a licensed, armed tour guide.",
+      "Bring strong insect repellent and wear long sleeves.",
+      "Maintain silence during forest walks to spot wildlife.",
+      "Pack a good pair of binoculars.",
+      "Respect the fragile ecosystem and do not litter."
+    ],
+    "nearbyAttractions": [
+      "sixty-dome-mosque",
+      "mongla-port"
+    ],
+    "transportationGuide": "Travel by bus or train to Khulna or Mongla, then join a guided boat tour.",
+    "recommendedDuration": "3 days",
+    "activities": [
+      "Wildlife Spotting",
+      "Boat Cruising",
+      "Bird Watching",
+      "Jungle Trekking"
+    ],
+    "weather": {
+      "summer": "Hot, up to 35°C",
+      "monsoon": "Flooded and dangerous for travel",
+      "winter": "Cool and comfortable, 12-22°C"
+    },
+    "seo": {
+      "title": "Sundarbans - Largest Mangrove Forest | Beautiful Bangladesh",
+      "description": "Visit the Sundarbans, the world's largest mangrove forest and home of the Bengal Tiger.",
+      "keywords": [
+        "sundarbans",
+        "mangrove",
+        "bengal tiger",
+        "wildlife"
+      ]
+    },
+    "youtubeVideoUrl": "https://youtu.be/CcLzlD40ygY?si=qtW_OYh6wB57Gu0f"
+  },
+  {
+    "id": "dest-003",
+    "name": "Sylhet Tea Gardens",
+    "slug": "sylhet-tea-gardens",
+    "shortDescription": "Rolling green hills covered in endless, picturesque tea estates.",
+    "detailedDescription": "Sylhet, often described as the 'land of two leaves and a bud', is the premier tea-growing region of Bangladesh. The landscape is characterized by rolling hills gracefully blanketed with lush green tea bushes, creating a mesmerizing and serene environment.\n\nThe history of tea cultivation here dates back to the British colonial era. Visitors can walk through historic estates like the Malnicherra Tea Estate, the oldest in the subcontinent, and interact with the dedicated tea pluckers who maintain the gardens.\n\nBesides its visual appeal, the region offers the opportunity to sample some of the finest teas produced globally. The tranquil atmosphere, combined with the mild climate, makes Sylhet a perfect retreat for nature lovers seeking peace and beauty.",
+    "division": "sylhet",
+    "district": "Sylhet",
+    "category": [
+      "tea-gardens",
+      "hills-mountains"
+    ],
+    "coordinates": {
+      "lat": 24.8949,
+      "lng": 91.8687
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1627893528424-792f89b0f2d5",
+      "alt": "Sylhet Tea Gardens",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1496715976403-7e36dc43f17b?w=1200&q=80",
+        "alt": "Tea Estates - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80",
+        "alt": "Tea Estates - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=80",
+        "alt": "Tea Estates - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "June to November",
+    "entryFee": "Mostly free (some private estates require permission)",
+    "openingHours": "8:00 AM to 5:00 PM",
+    "travelTips": [
+      "Visit during or just after the monsoon for the greenest views.",
+      "Ask permission before photographing tea workers.",
+      "Try local street food in Sylhet town.",
+      "Hire a local guide to learn about the tea production process.",
+      "Carry an umbrella as rainfall is frequent."
+    ],
+    "nearbyAttractions": [
+      "ratargul-swamp-forest",
+      "jaflong",
+      "srimangal"
+    ],
+    "transportationGuide": "Daily flights, trains (Parabat Express), and buses available from Dhaka.",
+    "recommendedDuration": "2-3 days",
+    "activities": [
+      "Tea Tasting",
+      "Photography",
+      "Nature Walks"
+    ],
+    "weather": {
+      "summer": "Warm with heavy rain",
+      "monsoon": "Very heavy rainfall, extremely green",
+      "winter": "Cool, misty mornings"
+    },
+    "seo": {
+      "title": "Sylhet Tea Gardens | Beautiful Bangladesh",
+      "description": "Experience the lush green rolling hills of Sylhet's famous tea gardens.",
+      "keywords": [
+        "sylhet",
+        "tea gardens",
+        "nature",
+        "bangladesh"
+      ]
+    },
+    "youtubeVideoUrl": "https://youtu.be/cjULCiR2Goo?si=k3H29hDhXDNd1DDh"
+  },
+  {
+    "id": "dest-004",
+    "name": "Saint Martin's Island",
+    "slug": "saint-martins-island",
+    "shortDescription": "The only coral island in Bangladesh, famous for crystal clear water and coconut trees.",
+    "detailedDescription": "Saint Martin's Island is a small, tropical paradise located in the northeastern part of the Bay of Bengal. As Bangladesh's only coral island, it offers a stark contrast to the country's typical riverine and muddy coastal landscapes, boasting crystal clear blue waters and white sandy beaches.\n\nThe island is fringed with dense groves of coconut palms and a diverse marine life around its coral reefs. It is a tranquil, vehicle-free haven where the sound of the ocean and the gentle breeze create a deeply relaxing environment.\n\nVisitors can cycle around the island, enjoy fresh seafood barbeques on the beach at night, or take a small boat to Chera Dwip, an adjoining coral extension that gets separated during high tide.",
+    "division": "chittagong",
+    "district": "Cox's Bazar",
+    "category": [
+      "islands",
+      "beaches"
+    ],
+    "coordinates": {
+      "lat": 20.6271,
+      "lng": 92.3229
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=1200&q=80",
+      "alt": "Saint Martin's Island",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80",
+        "alt": "Saint Martin - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=1200&q=80",
+        "alt": "Saint Martin - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1200&q=80",
+        "alt": "Saint Martin - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "November to February",
+    "entryFee": "Free (Ferry ticket required)",
+    "openingHours": "Open 24 hours",
+    "travelTips": [
+      "Ferries only operate during the winter months.",
+      "Book your ferry and hotel months in advance.",
+      "There is no central electricity grid; hotels use generators/solar.",
+      "Do not collect or buy coral, as it destroys the ecosystem.",
+      "Carry sufficient cash, ATMs are limited."
+    ],
+    "nearbyAttractions": [
+      "coxs-bazar",
+      "chera-dwip"
+    ],
+    "transportationGuide": "Bus to Teknaf, then a 2-3 hour scenic ferry ride to the island.",
+    "recommendedDuration": "2 days",
+    "activities": [
+      "Scuba Diving",
+      "Snorkeling",
+      "Cycling",
+      "Beach BBQ"
+    ],
+    "weather": {
+      "summer": "Hot, island inaccessible by ferry",
+      "monsoon": "Cyclones common, ferries halted",
+      "winter": "Pleasant and breezy, ideal for visiting"
+    },
+    "seo": {
+      "title": "Saint Martin's Island - Coral Island | Beautiful Bangladesh",
+      "description": "Relax at Saint Martin's Island, the pristine coral island of Bangladesh.",
+      "keywords": [
+        "saint martin",
+        "coral island",
+        "beach",
+        "teknaf"
+      ]
+    },
+    "youtubeVideoUrl": "https://youtu.be/0iecIir3r-w?si=f0PiZKK189Cfgu3F"
+  },
+  {
+    "id": "dest-005",
+    "name": "Paharpur",
+    "slug": "paharpur",
+    "shortDescription": "Somapura Mahavihara in Paharpur is one of the most important Buddhist archaeological sites in Asia.",
+    "detailedDescription": "Somapura Mahavihara, located in Paharpur, is a monumental UNESCO World Heritage Site and one of the most significant archaeological ruins in South Asia. Built in the 8th century by the Pala Dynasty, it served as a major center of learning for Buddhist scholars from all over the continent.\n\nThe complex features a massive quadrangle with a towering central shrine, intricately decorated with thousands of terracotta plaques. These plaques depict the everyday life, mythology, and flora and fauna of ancient Bengal, offering a fascinating window into history.\n\nExploring Paharpur provides a sense of the region's ancient architectural brilliance and its importance as a cultural and religious hub on the ancient trade routes.",
+    "division": "rajshahi",
+    "district": "Naogaon",
+    "category": [
+      "archaeological-sites",
+      "unesco-world-heritage",
+      "historical-sites"
+    ],
+    "coordinates": {
+      "lat": 25.0289,
+      "lng": 88.9767
+    },
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/%E0%A6%AA%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%AC%E0%A7%8C%E0%A6%A6%E0%A7%8D%E0%A6%A7_%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0_22.jpg",
+      "alt": "Paharpur Buddhist Vihara",
+      "photographer": {
+        "name": "Wikipedia Contributor",
+        "profileUrl": "https://en.wikipedia.org"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80",
+        "alt": "Paharpur Ruins - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1564507592333-3d1e09cf9ae5?w=1200&q=80",
+        "alt": "Paharpur Ruins - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1200&q=80",
+        "alt": "Paharpur Ruins - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "October to March",
+    "entryFee": "20 BDT for locals, 200 BDT for foreigners",
+    "openingHours": "9:00 AM to 5:00 PM (Closed Sundays)",
+    "travelTips": [
+      "Hire a local guide to understand the historical context.",
+      "Visit the onsite museum first to see excavated artifacts.",
+      "Wear comfortable walking shoes.",
+      "Bring sun protection as the site is highly exposed.",
+      "Carry your own water and snacks."
+    ],
+    "nearbyAttractions": [
+      "mahasthangarh",
+      "puthia-temple-complex"
+    ],
+    "transportationGuide": "Bus or train to Rajshahi or Bogra, then local transport to Naogaon.",
+    "recommendedDuration": "1 day",
+    "activities": [
+      "Historical Tour",
+      "Photography",
+      "Museum Visit"
+    ],
+    "weather": {
+      "summer": "Very hot and dry, up to 38°C",
+      "monsoon": "Humid with moderate rain",
+      "winter": "Cool and comfortable"
+    },
+    "seo": {
+      "title": "Paharpur - Somapura Mahavihara | Beautiful Bangladesh",
+      "description": "Discover Paharpur, a grand 8th-century Buddhist monastery and UNESCO World Heritage site.",
+      "keywords": [
+        "paharpur",
+        "buddhist vihara",
+        "unesco",
+        "archaeology bangladesh"
+      ]
+    },
+    "youtubeVideoUrl": "https://youtu.be/YKm2BBHmaKo?si=dH3EHfGHHZxik9cG"
+  },
+  {
+    "id": "dest-006",
+    "name": "Srimangal",
+    "slug": "srimangal",
+    "shortDescription": "The tea capital of Bangladesh, boasting incredible biodiversity and the famous seven-layer tea.",
+    "detailedDescription": "Srimangal, widely regarded as the 'Tea Capital of Bangladesh', is a lush, hilly region nestled in the Sylhet division. It is heavily blanketed with sprawling tea estates, rubber plantations, and patches of dense tropical forests, making it one of the most picturesque areas in the country.\n\nAside from its tea, Srimangal is famous for Lawachara National Park, a major biodiversity hotspot where you can spot the rare Hoolock Gibbon. The town itself has a relaxed, welcoming vibe, drawing travelers seeking eco-tourism and nature walks.\n\nA must-do activity is tasting the legendary seven-layer tea at the original Nilkantha Tea Cabin, where different types and colors of tea are meticulously layered in a single glass.",
+    "division": "sylhet",
+    "district": "Moulvibazar",
+    "category": [
+      "tea-gardens",
+      "forests-wildlife"
+    ],
+    "coordinates": {
+      "lat": 24.3065,
+      "lng": 91.7296
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=1200&q=80",
+      "alt": "Srimangal Tea Gardens",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1496715976403-7e36dc43f17b?w=1200&q=80",
+        "alt": "Srimangal - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=80",
+        "alt": "Srimangal - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80",
+        "alt": "Srimangal - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "October to March",
+    "entryFee": "Free (Parks have separate fees)",
+    "openingHours": "Open 24 hours",
+    "travelTips": [
+      "Rent a bicycle to explore the tea gardens at your own pace.",
+      "Try the famous seven-layer tea.",
+      "Bring mosquito repellent for forest hikes.",
+      "Stay in an eco-resort for a nature-immersive experience.",
+      "Visit during the rainy season to see the tea leaves at their greenest."
+    ],
+    "nearbyAttractions": [
+      "lawachara-national-park",
+      "madhabpur-lake",
+      "sylhet-tea-gardens"
+    ],
+    "transportationGuide": "Excellent train connections (like Parabat Express) from Dhaka.",
+    "recommendedDuration": "2-3 days",
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Tea Tasting",
+      "Wildlife Spotting"
+    ],
+    "weather": {
+      "summer": "Warm with frequent rain",
+      "monsoon": "Heavy rainfall, lush green landscape",
+      "winter": "Chilly mornings, misty and pleasant"
+    },
+    "seo": {
+      "title": "Srimangal - The Tea Capital | Beautiful Bangladesh",
+      "description": "Explore Srimangal, the tea capital of Bangladesh, known for its seven-layer tea and nature.",
+      "keywords": [
+        "srimangal",
+        "tea capital",
+        "seven layer tea",
+        "sylhet"
+      ]
+    },
+    "youtubeVideoUrl": "https://youtu.be/RFC-Jxw3pIc?si=HsgG1E73UHr8gCZS"
+  },
+  {
+    "id": "dest-007",
+    "name": "Rangamati",
+    "slug": "rangamati",
+    "shortDescription": "A stunning hilly district characterized by the vast, picturesque Kaptai Lake.",
+    "detailedDescription": "Rangamati is a breathtaking district in the Chittagong Hill Tracts, renowned for its diverse indigenous culture and spectacular scenery. At the heart of Rangamati is Kaptai Lake, a vast, man-made expanse of crystal-blue water surrounded by lush, green hills.\n\nBoating on Kaptai Lake is the primary attraction, offering visitors the chance to explore hidden gorges, waterfalls, and isolated tribal villages. The hanging bridge (Jhulonto Bridge) over a portion of the lake has become an iconic symbol of the town.\n\nThe region is home to several indigenous communities, notably the Chakma people. Their rich culture is visible in the local markets, where you can purchase beautiful handwoven textiles and try unique tribal cuisines.",
+    "division": "chittagong",
+    "district": "Rangamati",
+    "category": [
+      "hills-mountains",
+      "rivers-lakes"
+    ],
+    "coordinates": {
+      "lat": 22.6533,
+      "lng": 92.1525
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=1200&q=80",
+      "alt": "Kaptai Lake, Rangamati",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=80",
+        "alt": "Rangamati Lake and Hills - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=1200&q=80",
+        "alt": "Rangamati Lake and Hills - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1200&q=80",
+        "alt": "Rangamati Lake and Hills - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "October to February",
+    "entryFee": "Free (Boat rides charge by the hour)",
+    "openingHours": "Open 24 hours",
+    "travelTips": [
+      "Foreign tourists require a special permit to enter the Hill Tracts.",
+      "Rent a boat for the whole day to fully explore Kaptai Lake.",
+      "Try traditional Chakma food, especially Bamboo Shoot curry.",
+      "Visit the local tribal handicraft markets for souvenirs.",
+      "Be respectful when photographing indigenous people."
+    ],
+    "nearbyAttractions": [
+      "bandarban",
+      "kaptai-national-park"
+    ],
+    "transportationGuide": "Accessible by bus from Chittagong or Dhaka.",
+    "recommendedDuration": "2-3 days",
+    "activities": [
+      "Boat Cruising",
+      "Kayaking",
+      "Cultural Tours",
+      "Shopping"
+    ],
+    "weather": {
+      "summer": "Warm and humid",
+      "monsoon": "Heavy rain, lake is full and beautiful but boating can be risky",
+      "winter": "Cool, misty, and excellent for tourism"
+    },
+    "seo": {
+      "title": "Rangamati - City of Lakes | Beautiful Bangladesh",
+      "description": "Discover Rangamati, home to the magnificent Kaptai Lake and rich indigenous cultures.",
+      "keywords": [
+        "rangamati",
+        "kaptai lake",
+        "hill tracts",
+        "bangladesh"
+      ]
+    },
+    "youtubeVideoUrl": "https://www.youtube.com/watch?v=N6Yg004RkH8"
+  },
+  {
+    "id": "dest-008",
+    "name": "Bandarban",
+    "slug": "bandarban",
+    "shortDescription": "The adventure capital of Bangladesh, featuring the highest mountain peaks and tribal cultures.",
+    "detailedDescription": "Bandarban, part of the Chittagong Hill Tracts, is widely considered the adventure and trekking capital of Bangladesh. It boasts the highest mountain peaks in the country, including Tahjindong and Keokradong, drawing hikers and thrill-seekers from all over.\n\nThe landscape is dramatically varied, with steep winding mountain roads, deep valleys, and beautiful waterfalls like Nafakhum and Amiakhum hidden deep within the forests. Above the clouds, places like the Nilgiri resort offer panoramic views of the entire hill tract region.\n\nBandarban is also incredibly culturally rich, housing over a dozen indigenous ethnic groups such as the Marma, Mro, and Bawm. Visitors can experience their unique traditions, stilt houses, and local cuisines, adding a profound cultural depth to the adventurous journey.",
+    "division": "chittagong",
+    "district": "Bandarban",
+    "category": [
+      "hills-mountains"
+    ],
+    "coordinates": {
+      "lat": 22.1953,
+      "lng": 92.2184
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80",
+      "alt": "Bandarban Mountains",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=1200&q=80",
+        "alt": "Bandarban Landscapes - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=1200&q=80",
+        "alt": "Bandarban Landscapes - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=80",
+        "alt": "Bandarban Landscapes - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "October to March",
+    "entryFee": "Free (Specific spots have entry fees)",
+    "openingHours": "Open 24 hours",
+    "travelTips": [
+      "Foreign tourists must obtain permission from the DC office.",
+      "Hire a 'Chander Gari' (local jeep) for mountain roads.",
+      "Use local indigenous guides for deep jungle treks.",
+      "Pack sturdy trekking shoes and basic first aid.",
+      "Try the traditional Marma cuisine."
+    ],
+    "nearbyAttractions": [
+      "rangamati",
+      "sajek-valley"
+    ],
+    "transportationGuide": "Direct buses available from Dhaka and Chittagong.",
+    "recommendedDuration": "3-5 days",
+    "activities": [
+      "Trekking",
+      "Waterfall exploring",
+      "Cultural tours",
+      "Jeep rides"
+    ],
+    "weather": {
+      "summer": "Warm, requires endurance for trekking",
+      "monsoon": "Lush green but landslides are a risk",
+      "winter": "Cold at night, perfect for hiking"
+    },
+    "seo": {
+      "title": "Bandarban - Mountains and Adventure | Beautiful Bangladesh",
+      "description": "Trek the highest peaks of Bangladesh in Bandarban, the adventure capital of the country.",
+      "keywords": [
+        "bandarban",
+        "trekking bangladesh",
+        "hill tracts",
+        "mountains"
+      ]
+    },
+    "youtubeVideoUrl": "https://youtu.be/HN7kxZY7IyY?si=ks7WgR3JN9Yll3LH"
+  },
+  {
+    "id": "dest-009",
+    "name": "Kuakata",
+    "slug": "kuakata",
+    "shortDescription": "A rare scenic beach where you can watch both sunrise and sunset over the Bay of Bengal.",
+    "detailedDescription": "Kuakata, known locally as 'Sagor Kannya' (Daughter of the Sea), is a panoramic sea beach on the southernmost tip of Bangladesh. What makes Kuakata truly unique is its geographical orientation, allowing visitors to witness both the sunrise and sunset over the Bay of Bengal from the same sandy stretch.\n\nThe beach is relatively quieter and less commercialized than Cox's Bazar, appealing to those seeking tranquility. It is flanked by coconut groves and an ancient Buddhist settlement belonging to the Rakhine community, who migrated here from Myanmar centuries ago.\n\nVisitors can explore the local Rakhine villages, visit the hundred-year-old Buddhist temple with its giant statue of Buddha, or take a motorbike ride down the beach to the surrounding mangrove forests like Gangamati.",
+    "division": "barisal",
+    "district": "Patuakhali",
+    "category": [
+      "beaches"
+    ],
+    "coordinates": {
+      "lat": 21.8167,
+      "lng": 90.1167
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1476610182048-b716b8518aae?w=1200&q=80",
+      "alt": "Kuakata Beach Sunset",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=1200&q=80",
+        "alt": "Kuakata Scenic Beach - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1200&q=80",
+        "alt": "Kuakata Scenic Beach - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80",
+        "alt": "Kuakata Scenic Beach - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "October to March",
+    "entryFee": "Free",
+    "openingHours": "Open 24 hours",
+    "travelTips": [
+      "Wake up early to catch the famous sunrise.",
+      "Hire a beach bike to explore Gangamati Reserved Forest.",
+      "Visit the local Rakhine market for handloom products.",
+      "Respect local traditions when visiting the Buddhist temples.",
+      "Enjoy fresh crabs and fish barbequed right on the beach."
+    ],
+    "nearbyAttractions": [
+      "sundarbans",
+      "barisal-floating-market"
+    ],
+    "transportationGuide": "Accessible by bus from Dhaka via the Padma Bridge, or by launch to Barisal then bus.",
+    "recommendedDuration": "2 days",
+    "activities": [
+      "Sunrise/Sunset watching",
+      "Beach biking",
+      "Temple visiting"
+    ],
+    "weather": {
+      "summer": "Hot and humid",
+      "monsoon": "Heavy rains and rough sea",
+      "winter": "Cool, pleasant, ideal for beach walks"
+    },
+    "seo": {
+      "title": "Kuakata Beach - Daughter of the Sea | Beautiful Bangladesh",
+      "description": "Witness the rare beauty of both sunrise and sunset from the shores of Kuakata beach.",
+      "keywords": [
+        "kuakata",
+        "beach",
+        "sunrise and sunset",
+        "barisal"
+      ]
+    },
+    "youtubeVideoUrl": "https://www.youtube.com/watch?v=O1V3kM0Xk-4"
+  },
+  {
+    "id": "dest-010",
+    "name": "Lalbagh Fort",
+    "slug": "lalbagh-fort",
+    "shortDescription": "An incomplete yet stunning 17th-century Mughal fort complex in Old Dhaka.",
+    "detailedDescription": "Lalbagh Fort (Fort Aurangabad) is an incomplete 17th-century Mughal fort complex that stands proudly in the southwestern part of Old Dhaka. Commissioned by Prince Muhammad Azam, son of Emperor Aurangzeb, its construction was abruptly halted following the tragic death of Pari Bibi, the daughter of the subahdar Shaista Khan.\n\nThe complex consists of three main structures: the Diwan-i-Aam (Hall of Audience), the stunning mausoleum of Pari Bibi built with black basalt and white marble, and the Quilla Mosque. These structures are surrounded by meticulously maintained Mughal gardens that offer an oasis of peace amidst the chaotic energy of Old Dhaka.\n\nThe fort is steeped in legends, including tales of secret underground passages leading all the way to India. It stands as a testament to Dhaka's rich Mughal history and is an essential visit for history buffs and architecture enthusiasts.",
+    "division": "dhaka",
+    "district": "Dhaka",
+    "category": [
+      "historical-sites"
+    ],
+    "coordinates": {
+      "lat": 23.7196,
+      "lng": 90.3881
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80",
+      "alt": "Lalbagh Fort Architecture",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=80",
+        "alt": "Lalbagh Fort Details - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1564507592333-3d1e09cf9ae5?w=1200&q=80",
+        "alt": "Lalbagh Fort Details - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1200&q=80",
+        "alt": "Lalbagh Fort Details - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "October to March",
+    "entryFee": "30 BDT for locals, 300 BDT for foreigners",
+    "openingHours": "10:30 AM to 5:30 PM (Closed Sundays)",
+    "travelTips": [
+      "Visit in the late afternoon for the best lighting for photography.",
+      "Combine the visit with a tour of Ahsan Manzil and Dhakeshwari Temple.",
+      "Try the famous Old Dhaka biryani nearby.",
+      "Use rickshaws to navigate the narrow streets of Old Dhaka.",
+      "Dress modestly as there is a mosque on the premises."
+    ],
+    "nearbyAttractions": [
+      "sonargaon",
+      "ahsan-manzil"
+    ],
+    "transportationGuide": "Best reached by CNG or rickshaw from central Dhaka.",
+    "recommendedDuration": "Half day",
+    "activities": [
+      "Historical Tour",
+      "Photography",
+      "Garden walks"
+    ],
+    "weather": {
+      "summer": "Very hot, up to 36°C",
+      "monsoon": "Humid and rainy",
+      "winter": "Comfortable and pleasant"
+    },
+    "seo": {
+      "title": "Lalbagh Fort - Mughal Architecture | Beautiful Bangladesh",
+      "description": "Explore the historic Lalbagh Fort, a 17th-century Mughal masterpiece in Dhaka.",
+      "keywords": [
+        "lalbagh fort",
+        "dhaka",
+        "mughal architecture",
+        "history"
+      ]
+    },
+    "youtubeVideoUrl": "https://www.youtube.com/watch?v=S8g9K4m9W2E"
+  },
+  {
+    "id": "dest-011",
+    "name": "Sixty Dome Mosque",
+    "slug": "sixty-dome-mosque",
+    "shortDescription": "A 15th-century UNESCO World Heritage mosque known for its impressive terracotta architecture.",
+    "detailedDescription": "The Sixty Dome Mosque (Shat Gombuj Masjid) is a masterpiece of early Islamic architecture in the Indian subcontinent. Located in Bagerhat, it was built in the 15th century by Khan Jahan Ali, a revered Sufi saint and local ruler.\n\nDespite its name, the mosque actually boasts 77 low domes over its roof and four smaller domes on its corner towers. It is constructed entirely of terracotta bricks, featuring beautiful architectural details and an immense prayer hall divided by slender stone columns.\n\nRecognized as a UNESCO World Heritage Site, it stands as the centerpiece of the Historic Mosque City of Bagerhat. The serene atmosphere and incredible engineering of the structure provide a profound glimpse into the glorious past of the Bengal Sultanate.",
+    "division": "khulna",
+    "district": "Bagerhat",
+    "category": [
+      "religious-sites",
+      "unesco-world-heritage",
+      "historical-sites"
+    ],
+    "coordinates": {
+      "lat": 22.6744,
+      "lng": 89.742
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1631959655265-aef1c6ec3bcd",
+      "alt": "Sixty Dome Mosque",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80",
+        "alt": "Mosque City of Bagerhat - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=80",
+        "alt": "Mosque City of Bagerhat - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1200&q=80",
+        "alt": "Mosque City of Bagerhat - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "October to March",
+    "entryFee": "20 BDT for locals, 200 BDT for foreigners",
+    "openingHours": "9:00 AM to 5:00 PM",
+    "travelTips": [
+      "Take off your shoes before entering the prayer hall.",
+      "Visit the adjacent museum to learn about Khan Jahan Ali.",
+      "Dress conservatively.",
+      "Combine the trip with a visit to the Sundarbans.",
+      "Hire a local guide to understand the architectural significance."
+    ],
+    "nearbyAttractions": [
+      "sundarbans",
+      "khan-jahan-ali-tomb"
+    ],
+    "transportationGuide": "Bus from Khulna city takes about 45 minutes to reach Bagerhat.",
+    "recommendedDuration": "Half day",
+    "activities": [
+      "Historical touring",
+      "Photography",
+      "Religious visits"
+    ],
+    "weather": {
+      "summer": "Warm and humid",
+      "monsoon": "Rainy, carry an umbrella",
+      "winter": "Cool and perfect for exploring"
+    },
+    "seo": {
+      "title": "Sixty Dome Mosque - Bagerhat | Beautiful Bangladesh",
+      "description": "Visit the majestic 15th-century Sixty Dome Mosque, a UNESCO World Heritage site.",
+      "keywords": [
+        "sixty dome mosque",
+        "shat gombuj",
+        "bagerhat",
+        "unesco bangladesh"
+      ]
+    },
+    "youtubeVideoUrl": "https://youtu.be/kF6AtctqrzM?si=BH4t8JH2qTmI7ohA"
+  },
+  {
+    "id": "dest-012",
+    "name": "Ratargul Swamp Forest",
+    "slug": "ratargul-swamp-forest",
+    "shortDescription": "The only freshwater swamp forest in Bangladesh, often called the 'Amazon of Bengal'.",
+    "detailedDescription": "Ratargul Swamp Forest, located in Sylhet, is the only freshwater swamp forest in Bangladesh and one of the few in the world. Often dubbed the 'Amazon of Bengal', this unique ecosystem is submerged under water for about half the year during the monsoon season.\n\nThe forest features dense canopies of Koroch and Hijal trees that adapt to waterlogging. Gliding silently through the flooded forest in a small wooden dinghy is a surreal, tranquil experience, offering reflections of the green canopy on the still water.\n\nThe forest is home to various species of monkeys, snakes, and numerous resident and migratory birds. For nature lovers and photographers, Ratargul offers a magical environment unlike anywhere else in the country.",
+    "division": "sylhet",
+    "district": "Sylhet",
+    "category": [
+      "forests-wildlife",
+      "rivers-lakes"
+    ],
+    "coordinates": {
+      "lat": 25.0028,
+      "lng": 91.8211
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=1200&q=80",
+      "alt": "Ratargul Swamp Forest Boat",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=80",
+        "alt": "Ratargul Swamp Forest - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542273917363-1f3e5ce0aafa?w=1200&q=80",
+        "alt": "Ratargul Swamp Forest - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=80",
+        "alt": "Ratargul Swamp Forest - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "July to October (During monsoon)",
+    "entryFee": "Free (Boat rental required)",
+    "openingHours": "8:00 AM to 5:00 PM",
+    "travelTips": [
+      "The forest is only flooded and navigable by boat during the monsoon.",
+      "Rent a traditional wooden boat at the entrance.",
+      "Do not make loud noises to avoid disturbing the wildlife.",
+      "Wear life jackets as the water can be deep.",
+      "Protect your camera equipment from water splashes."
+    ],
+    "nearbyAttractions": [
+      "jaflong",
+      "sylhet-tea-gardens"
+    ],
+    "transportationGuide": "Take a CNG auto-rickshaw or jeep from Sylhet town.",
+    "recommendedDuration": "Half day",
+    "activities": [
+      "Canoeing",
+      "Bird Watching",
+      "Nature Photography"
+    ],
+    "weather": {
+      "summer": "Forest is usually dry",
+      "monsoon": "Flooded and beautiful, high humidity",
+      "winter": "Dry season, forest floor is exposed"
+    },
+    "seo": {
+      "title": "Ratargul Swamp Forest - Amazon of Bengal | Beautiful Bangladesh",
+      "description": "Glide through Ratargul, Bangladesh's only freshwater swamp forest.",
+      "keywords": [
+        "ratargul",
+        "swamp forest",
+        "sylhet",
+        "nature bangladesh"
+      ]
+    },
+    "youtubeVideoUrl": "https://www.youtube.com/watch?v=W0Y9n7_2V-Y"
+  },
+  {
+    "id": "dest-013",
+    "name": "Jaflong",
+    "slug": "jaflong",
+    "shortDescription": "A scenic spot near the Indian border famous for its stone collections and clear river water.",
+    "detailedDescription": "Located right on the border between Bangladesh and the Indian state of Meghalaya, Jaflong is renowned for its striking natural beauty. The area is defined by the crystal clear waters of the Mari River, rolling stones, and a stunning backdrop of the towering Khasi Hills.\n\nJaflong is famously known as the stone capital of Bangladesh, where locals manually collect colorful stones washed down from the Indian hills. The river banks are dotted with tea gardens and indigenous Khasi villages, adding cultural charm to the natural scenery.\n\nVisitors enjoy taking small boat rides on the clear river, dipping their feet in the cool water, and observing the unique lifestyle of the Khasi tribe. The raw, rugged beauty of Jaflong makes it a staple in any Sylhet itinerary.",
+    "division": "sylhet",
+    "district": "Sylhet",
+    "category": [
+      "rivers-lakes",
+      "hills-mountains"
+    ],
+    "coordinates": {
+      "lat": 25.1793,
+      "lng": 92.015
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1643001607577-0a0332e79aab",
+      "alt": "Jaflong River and Hills",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=1200&q=80",
+        "alt": "Jaflong Scenery - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1200&q=80",
+        "alt": "Jaflong Scenery - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80",
+        "alt": "Jaflong Scenery - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "June to October",
+    "entryFee": "Free",
+    "openingHours": "Daylight hours",
+    "travelTips": [
+      "The water is clearest during the winter, but the waterfalls from India are best seen during monsoon.",
+      "Visit the Khasi tribal villages to buy betel leaf and nuts.",
+      "Be careful when walking on the slippery river stones.",
+      "Hire a small boat to cross the river to 'Zero Point'.",
+      "Combine this trip with a visit to Lalakhal."
+    ],
+    "nearbyAttractions": [
+      "ratargul-swamp-forest",
+      "sylhet-tea-gardens"
+    ],
+    "transportationGuide": "Buses and reserved jeeps run directly from Sylhet town.",
+    "recommendedDuration": "1 day",
+    "activities": [
+      "River boating",
+      "Photography",
+      "Cultural visits"
+    ],
+    "weather": {
+      "summer": "Warm, moderate water flow",
+      "monsoon": "Heavy rain, strong river currents",
+      "winter": "Cool, shallow and clear water"
+    },
+    "seo": {
+      "title": "Jaflong - Zero Point Sylhet | Beautiful Bangladesh",
+      "description": "Enjoy the crystal clear rivers and Khasi hills of Jaflong in Sylhet.",
+      "keywords": [
+        "jaflong",
+        "sylhet",
+        "mari river",
+        "bangladesh border"
+      ]
+    },
+    "youtubeVideoUrl": "https://www.youtube.com/watch?v=P8e3k0L9Q90"
+  },
+  {
+    "id": "dest-014",
+    "name": "Sajek Valley",
+    "slug": "sajek-valley",
+    "shortDescription": "The 'Roof of Rangamati', a pristine valley famous for its sea of clouds.",
+    "detailedDescription": "Sajek Valley, often referred to as the 'Roof of Rangamati' (though accessed via Khagrachari), is a premier hill station nestled in the Chittagong Hill Tracts. Elevated at about 1,800 feet above sea level, it offers 360-degree panoramic views of lush green mountains and deep valleys.\n\nThe valley is most famous for its mesmerizing 'sea of clouds'. Visitors wake up early to witness thick white clouds rolling below the mountain peaks, creating an ethereal, heavenly atmosphere. The area is home to the indigenous Tripura and Lushei communities.\n\nThe winding, scenic drive to Sajek through the dense forests and hills is an adventure in itself. With modern eco-resorts blending into the environment, Sajek has quickly become one of the most popular and romantic tourist destinations in Bangladesh.",
+    "division": "chittagong",
+    "district": "Rangamati/Khagrachari",
+    "category": [
+      "hills-mountains"
+    ],
+    "coordinates": {
+      "lat": 23.3833,
+      "lng": 92.2833
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=1200&q=80",
+      "alt": "Sajek Valley Clouds",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80",
+        "alt": "Sajek Valley Views - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=1200&q=80",
+        "alt": "Sajek Valley Views - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1200&q=80",
+        "alt": "Sajek Valley Views - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "June to November",
+    "entryFee": "Security pass required",
+    "openingHours": "Escorted convoys run at specific times (10 AM & 3 PM)",
+    "travelTips": [
+      "You must travel in military-escorted convoys from Khagrachari.",
+      "Book resorts months in advance as they sell out quickly.",
+      "Monsoon is the best time to see the sea of clouds.",
+      "Try Bamboo Chicken, a local tribal delicacy.",
+      "Electricity is limited; carry power banks."
+    ],
+    "nearbyAttractions": [
+      "bandarban",
+      "rangamati"
+    ],
+    "transportationGuide": "Travel to Khagrachari by bus, then hire a local 'Chander Gari' (jeep).",
+    "recommendedDuration": "2 days",
+    "activities": [
+      "Cloud watching",
+      "Trekking",
+      "Cultural dining"
+    ],
+    "weather": {
+      "summer": "Pleasant but clouds are rare",
+      "monsoon": "Rainy, highest chance of seeing the cloud sea",
+      "winter": "Cold at night, misty mornings"
+    },
+    "seo": {
+      "title": "Sajek Valley - Sea of Clouds | Beautiful Bangladesh",
+      "description": "Experience the majestic sea of clouds in Sajek Valley, Bangladesh's premier hill station.",
+      "keywords": [
+        "sajek valley",
+        "hill station",
+        "sea of clouds",
+        "khagrachari"
+      ]
+    },
+    "youtubeVideoUrl": "https://youtu.be/IkYbt-cuonE?si=IaeseakyGhxSrvnL"
+  },
+  {
+    "id": "dest-015",
+    "name": "Mahasthangarh",
+    "slug": "mahasthangarh",
+    "shortDescription": "The oldest known archaeological site in Bangladesh, dating back to the 3rd century BC.",
+    "detailedDescription": "Mahasthangarh is an ancient urban archaeological site located in the Bogra district. Dating back to the 3rd century BC, it is the oldest known city in Bangladesh. Originally called Pundranagara, it served as the provincial capital of several great empires, including the Mauryans, Guptas, and Palas.\n\nThe sprawling fortified ruins consist of ancient brick walls, foundations of temples, and residential blocks. Key spots within the complex include Govinda Bhita (a Hindu temple ruin), the Citadel, and the adjacent museum which houses fascinating artifacts like terracotta plaques, coins, and ancient pottery.\n\nWalking through Mahasthangarh is like stepping back millennia. It offers a profound sense of the deep historical roots and ancient civilization that once thrived in the Bengal delta.",
+    "division": "rajshahi",
+    "district": "Bogra",
+    "category": [
+      "archaeological-sites",
+      "historical-sites"
+    ],
+    "coordinates": {
+      "lat": 24.9631,
+      "lng": 89.3456
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=80",
+      "alt": "Mahasthangarh Ruins",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80",
+        "alt": "Ancient Ruins - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1200&q=80",
+        "alt": "Ancient Ruins - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1564507592333-3d1e09cf9ae5?w=1200&q=80",
+        "alt": "Ancient Ruins - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "October to March",
+    "entryFee": "20 BDT for locals, 200 BDT for foreigners",
+    "openingHours": "10:00 AM to 5:00 PM (Closed Sundays)",
+    "travelTips": [
+      "Start at the museum to get context before exploring the ruins.",
+      "Wear comfortable shoes as the site is vast.",
+      "Try the famous Bogra curd (Doi) in the nearby town.",
+      "Visit the nearby Gokul Medh (Behula's Nuptial Room).",
+      "Hire a local guide to fully understand the layers of history."
+    ],
+    "nearbyAttractions": [
+      "paharpur"
+    ],
+    "transportationGuide": "Direct buses available from Dhaka to Bogra (about 4-5 hours).",
+    "recommendedDuration": "1 day",
+    "activities": [
+      "Historical exploration",
+      "Museum visit",
+      "Photography"
+    ],
+    "weather": {
+      "summer": "Hot, carry water",
+      "monsoon": "Humid with moderate rain",
+      "winter": "Cool and ideal for walking"
+    },
+    "seo": {
+      "title": "Mahasthangarh - Ancient City | Beautiful Bangladesh",
+      "description": "Explore Mahasthangarh, the oldest archaeological site in Bangladesh dating to the 3rd century BC.",
+      "keywords": [
+        "mahasthangarh",
+        "archaeology",
+        "ancient city",
+        "bogra"
+      ]
+    },
+    "youtubeVideoUrl": "https://www.youtube.com/watch?v=L8V3kM0Xk90"
+  },
+  {
+    "id": "dest-016",
+    "name": "Sonargaon",
+    "slug": "sonargaon",
+    "shortDescription": "The ancient historic capital of Bengal, featuring the abandoned city of Panam Nagar.",
+    "detailedDescription": "Sonargaon, meaning 'City of Gold', was the historic administrative, commercial, and maritime capital of Bengal under the independent Sultanate. Located near Dhaka, it was a prosperous hub for the global trade of muslin and cotton.\n\nThe most striking attraction in Sonargaon is Panam Nagar, a hauntingly beautiful abandoned street lined with crumbling 19th-century colonial and Mughal-style mansions. Built by wealthy Hindu merchants, the area was deserted during the partition of India but remains a captivating architectural marvel.\n\nNearby is the Folk Arts and Crafts Foundation, which features a museum, beautiful lakes, and lush grounds, offering insights into the traditional rural lifestyle and crafts of Bengali culture.",
+    "division": "dhaka",
+    "district": "Narayanganj",
+    "category": [
+      "historical-sites"
+    ],
+    "coordinates": {
+      "lat": 23.6423,
+      "lng": 90.5982
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80",
+      "alt": "Panam Nagar Sonargaon",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=80",
+        "alt": "Sonargaon Architecture - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1200&q=80",
+        "alt": "Sonargaon Architecture - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1564507592333-3d1e09cf9ae5?w=1200&q=80",
+        "alt": "Sonargaon Architecture - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "October to March",
+    "entryFee": "50 BDT for locals, 300 BDT for foreigners",
+    "openingHours": "9:00 AM to 5:00 PM (Closed Wednesdays/Thursdays)",
+    "travelTips": [
+      "Panam Nagar is perfect for portrait and architectural photography.",
+      "Visit the Folk Art Museum to see traditional Muslin fabric.",
+      "Take a short boat ride on the lake inside the Folk Art premises.",
+      "It can get crowded on weekends (Friday/Saturday).",
+      "Respect the decaying structures and do not climb them."
+    ],
+    "nearbyAttractions": [
+      "lalbagh-fort"
+    ],
+    "transportationGuide": "A short 1-1.5 hour bus or car ride from central Dhaka.",
+    "recommendedDuration": "Half day",
+    "activities": [
+      "Historical walking",
+      "Craft shopping",
+      "Photography"
+    ],
+    "weather": {
+      "summer": "Hot and humid",
+      "monsoon": "Rainy but the red bricks look striking",
+      "winter": "Pleasant and cool"
+    },
+    "seo": {
+      "title": "Sonargaon and Panam Nagar | Beautiful Bangladesh",
+      "description": "Step back in time at Sonargaon, the ancient capital of Bengal, and explore the abandoned Panam Nagar.",
+      "keywords": [
+        "sonargaon",
+        "panam nagar",
+        "history",
+        "dhaka day trip"
+      ]
+    },
+    "youtubeVideoUrl": "https://www.youtube.com/watch?v=K9N8k3L0P90"
+  },
+  {
+    "id": "dest-017",
+    "name": "Bagerhat",
+    "slug": "bagerhat",
+    "shortDescription": "The historic mosque city founded in the 15th century by Khan Jahan Ali.",
+    "detailedDescription": "Bagerhat, officially recognized as the 'Historic Mosque City', is a sprawling UNESCO World Heritage site in southwestern Bangladesh. Founded in the 15th century by the Turkish general and Sufi saint Ulugh Khan Jahan, the city was formerly known as Khalifatabad.\n\nThe city is dotted with numerous ancient mosques, tombs, and ancient water tanks built entirely of exposed terracotta bricks. Aside from the famous Sixty Dome Mosque, notable structures include the Nine Dome Mosque, the Singar Mosque, and the revered Tomb of Khan Jahan Ali.\n\nThe architectural style, known as the 'Khan Jahan Style', perfectly adapted Islamic architecture to the humid, rainy climate of Bengal. Bagerhat remains a quiet, spiritual, and historically rich destination off the beaten path.",
+    "division": "khulna",
+    "district": "Bagerhat",
+    "category": [
+      "historical-sites",
+      "unesco-world-heritage"
+    ],
+    "coordinates": {
+      "lat": 22.6602,
+      "lng": 89.7895
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1200&q=80",
+      "alt": "Bagerhat Historic Mosque",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1564507592333-3d1e09cf9ae5?w=1200&q=80",
+        "alt": "Bagerhat Mosques - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80",
+        "alt": "Bagerhat Mosques - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=80",
+        "alt": "Bagerhat Mosques - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "October to March",
+    "entryFee": "Mosques vary; many are free",
+    "openingHours": "Daylight hours",
+    "travelTips": [
+      "Take a rickshaw tour to visit the various scattered mosques.",
+      "Visit the shrine of Khan Jahan Ali and see the large marsh crocodiles in the adjacent pond.",
+      "Dress respectfully as it is a highly religious area.",
+      "Combine with a Sundarbans trip.",
+      "Try local sweetmeats in Bagerhat town."
+    ],
+    "nearbyAttractions": [
+      "sixty-dome-mosque",
+      "sundarbans"
+    ],
+    "transportationGuide": "Accessible by bus from Khulna (1 hour) or direct bus from Dhaka.",
+    "recommendedDuration": "1 day",
+    "activities": [
+      "Architectural tours",
+      "Spiritual visits",
+      "Photography"
+    ],
+    "weather": {
+      "summer": "Humid and warm",
+      "monsoon": "Lush but rainy",
+      "winter": "Cool and pleasant"
+    },
+    "seo": {
+      "title": "Bagerhat - Historic Mosque City | Beautiful Bangladesh",
+      "description": "Explore the ancient UNESCO World Heritage mosque city of Bagerhat.",
+      "keywords": [
+        "bagerhat",
+        "mosque city",
+        "unesco",
+        "khan jahan ali"
+      ]
+    },
+    "youtubeVideoUrl": "https://www.youtube.com/watch?v=J9N8k3L0P90"
+  },
+  {
+    "id": "dest-018",
+    "name": "Lawachara National Park",
+    "slug": "lawachara-national-park",
+    "shortDescription": "A major national park known for its dense tropical forest and rare Hoolock Gibbons.",
+    "detailedDescription": "Lawachara National Park is a major national reserve and biodiversity hotspot located near Srimangal. Covering over 1,250 hectares of semi-evergreen and mixed deciduous forest, it is one of the most accessible and popular wildlife sanctuaries in Bangladesh.\n\nThe park is globally significant for being one of the last remaining habitats for the endangered Western Hoolock Gibbon. The dense canopy is also home to slow lorises, capped langurs, barking deer, and over 240 species of birds.\n\nSeveral well-marked hiking trails crisscross the forest, including a scenic railway track that cuts right through the middle of the jungle. It is an immersive experience for hikers, birdwatchers, and nature lovers seeking a deep connection with the wild.",
+    "division": "sylhet",
+    "district": "Moulvibazar",
+    "category": [
+      "forests-wildlife"
+    ],
+    "coordinates": {
+      "lat": 24.3294,
+      "lng": 91.785
+    },
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1542273917363-1f3e5ce0aafa?w=1200&q=80",
+      "alt": "Lawachara Forest",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=80",
+        "alt": "Lawachara National Park - Image 1",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1200&q=80",
+        "alt": "Lawachara National Park - Image 2",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=1200&q=80",
+        "alt": "Lawachara National Park - Image 3",
+        "photographer": {
+          "name": "Unsplash Contributor",
+          "profileUrl": "https://unsplash.com/"
+        }
+      }
+    ],
+    "bestTimeToVisit": "October to March",
+    "entryFee": "50 BDT for locals, 500 BDT for foreigners",
+    "openingHours": "Sunrise to Sunset",
+    "travelTips": [
+      "Hire a local eco-guide at the entrance to help spot wildlife.",
+      "Walk quietly; gibbons are shy and easily frightened.",
+      "Bring strong insect and leech repellent.",
+      "Visit early in the morning for the best bird watching.",
+      "Do not feed the wild monkeys or animals."
+    ],
+    "nearbyAttractions": [
+      "srimangal",
+      "sylhet-tea-gardens"
+    ],
+    "transportationGuide": "A short CNG auto-rickshaw ride from Srimangal town.",
+    "recommendedDuration": "Half day",
+    "activities": [
+      "Wildlife spotting",
+      "Hiking",
+      "Bird watching",
+      "Photography"
+    ],
+    "weather": {
+      "summer": "Hot and humid",
+      "monsoon": "Leech-prone and very wet, but extremely lush",
+      "winter": "Dry, cool, and comfortable for trekking"
+    },
+    "seo": {
+      "title": "Lawachara National Park | Beautiful Bangladesh",
+      "description": "Trek through Lawachara National Park to spot rare wildlife like the Hoolock Gibbon.",
+      "keywords": [
+        "lawachara",
+        "national park",
+        "wildlife bangladesh",
+        "srimangal"
+      ]
+    },
+    "youtubeVideoUrl": "https://www.youtube.com/watch?v=H9N8k3L0P90"
+  }
+]

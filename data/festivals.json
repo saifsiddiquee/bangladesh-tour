@@ -1,0 +1,121 @@
+[
+  {
+    "id": "fest-01",
+    "name": "Pohela Boishakh",
+    "slug": "pohela-boishakh",
+    "description": "Pohela Boishakh is the first day of the Bengali calendar and is celebrated with grand festivities across the country. It marks the beginning of the Bengali New Year.\n\nThe day is celebrated with colorful processions, traditional music, and vibrant fairs. People dress in traditional red and white attire and enjoy special foods like Panta Ilish.",
+    "month": "April",
+    "duration": "1 Day",
+    "location": "Nationwide, major celebrations in Dhaka",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80",
+      "alt": "Pohela Boishakh",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "relatedDestinations": [
+      "dhaka"
+    ]
+  },
+  {
+    "id": "fest-02",
+    "name": "Durga Puja",
+    "slug": "durga-puja",
+    "description": "Durga Puja is the largest religious festival for the Hindu community in Bangladesh, celebrating the victory of Goddess Durga over the demon Mahishasura.\n\nElaborate pandals (temporary structures) are erected across cities and villages, showcasing stunning idols. The festival spans several days, culminating in the immersion of idols in rivers.",
+    "month": "October",
+    "duration": "5 Days",
+    "location": "Nationwide",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1564507592333-3d1e09cf9ae5?w=1200&q=80",
+      "alt": "Durga Puja",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "relatedDestinations": [
+      "dhaka",
+      "chittagong",
+      "rajshahi"
+    ]
+  },
+  {
+    "id": "fest-03",
+    "name": "Eid ul-Fitr",
+    "slug": "eid-ul-fitr",
+    "description": "Eid ul-Fitr is the most significant religious festival in Bangladesh, marking the end of Ramadan, the Islamic holy month of fasting.\n\nThe day begins with morning prayers at mosques and large open grounds. It is a time of charity, family gatherings, and feasts, where sweet dishes like Shemai are widely enjoyed.",
+    "month": "Varies (Islamic Calendar)",
+    "duration": "3 Days",
+    "location": "Nationwide",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1564507592333-3d1e09cf9ae5?w=1200&q=80",
+      "alt": "Eid ul-Fitr",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "relatedDestinations": []
+  },
+  {
+    "id": "fest-04",
+    "name": "Shakrain",
+    "slug": "shakrain",
+    "description": "Shakrain is a vibrant kite festival celebrated at the end of the Bengali month of Poush. It is predominantly observed in the older parts of Dhaka.\n\nThe sky fills with colorful kites during the day, and as night falls, the festivities continue with fire-breathing performances, fireworks, and loud music from rooftops.",
+    "month": "January",
+    "duration": "1 Day",
+    "location": "Old Dhaka",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1200&q=80",
+      "alt": "Shakrain Kite Festival",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "relatedDestinations": [
+      "dhaka"
+    ]
+  },
+  {
+    "id": "fest-05",
+    "name": "Nabanna",
+    "slug": "nabanna",
+    "description": "Nabanna is a traditional Bengali harvest festival celebrating the new crop. It holds deep cultural roots in the rural agricultural communities of Bangladesh.\n\nFarmers celebrate the arrival of newly harvested rice with music, dance, and the preparation of various traditional rice cakes (Pithas) and sweet dishes.",
+    "month": "November",
+    "duration": "Varies",
+    "location": "Rural Bangladesh",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=1200&q=80",
+      "alt": "Nabanna Harvest",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "relatedDestinations": []
+  },
+  {
+    "id": "fest-06",
+    "name": "Baishakhi Mela",
+    "slug": "baishakhi-mela",
+    "description": "Baishakhi Mela is a traditional fair held during the Bengali New Year. It acts as a grand gathering place for rural and urban people alike to celebrate their heritage.\n\nThe fairs feature local handicrafts, traditional toys, folk music performances, puppet shows, and a wide array of local street food and sweets.",
+    "month": "April",
+    "duration": "Several Weeks",
+    "location": "Nationwide",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=80",
+      "alt": "Baishakhi Mela",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "relatedDestinations": [
+      "dhaka",
+      "sylhet"
+    ]
+  }
+]

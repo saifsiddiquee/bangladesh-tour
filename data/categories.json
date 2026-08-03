@@ -1,0 +1,162 @@
+[
+  {
+    "id": "cat-01",
+    "name": "Beaches",
+    "slug": "beaches",
+    "description": "Sandy shores and ocean escapes.",
+    "icon": "🏖️",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80",
+      "alt": "Beaches in Bangladesh",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 3
+  },
+  {
+    "id": "cat-02",
+    "name": "Hills & Mountains",
+    "slug": "hills-mountains",
+    "description": "Elevated landscapes offering breathtaking views.",
+    "icon": "⛰️",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80",
+      "alt": "Hills & Mountains in Bangladesh",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 3
+  },
+  {
+    "id": "cat-03",
+    "name": "Forests & Wildlife",
+    "slug": "forests-wildlife",
+    "description": "Dense mangroves, jungles, and rich animal habitats.",
+    "icon": "🌿",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=80",
+      "alt": "Forests & Wildlife in Bangladesh",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 3
+  },
+  {
+    "id": "cat-04",
+    "name": "Historical Sites",
+    "slug": "historical-sites",
+    "description": "Forts, palaces, and ancient architecture.",
+    "icon": "🏛️",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80",
+      "alt": "Historical Sites in Bangladesh",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 4
+  },
+  {
+    "id": "cat-05",
+    "name": "Archaeological Sites",
+    "slug": "archaeological-sites",
+    "description": "Ancient ruins and archaeological wonders.",
+    "icon": "🏺",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=80",
+      "alt": "Archaeological Sites in Bangladesh",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 2
+  },
+  {
+    "id": "cat-06",
+    "name": "Rivers & Lakes",
+    "slug": "rivers-lakes",
+    "description": "Serene water bodies perfect for boating and relaxation.",
+    "icon": "🌊",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=1200&q=80",
+      "alt": "Rivers & Lakes in Bangladesh",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 2
+  },
+  {
+    "id": "cat-07",
+    "name": "Islands",
+    "slug": "islands",
+    "description": "Beautiful secluded land masses surrounded by water.",
+    "icon": "🏝️",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=1200&q=80",
+      "alt": "Islands in Bangladesh",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 1
+  },
+  {
+    "id": "cat-08",
+    "name": "Tea Gardens",
+    "slug": "tea-gardens",
+    "description": "Lush green rolling hills cultivating fine tea.",
+    "icon": "🍃",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=1200&q=80",
+      "alt": "Tea Gardens in Bangladesh",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 2
+  },
+  {
+    "id": "cat-09",
+    "name": "Religious Sites",
+    "slug": "religious-sites",
+    "description": "Historic mosques, temples, and places of worship.",
+    "icon": "🕌",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1564507592333-3d1e09cf9ae5?w=1200&q=80",
+      "alt": "Religious Sites in Bangladesh",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 2
+  },
+  {
+    "id": "cat-10",
+    "name": "UNESCO World Heritage",
+    "slug": "unesco-world-heritage",
+    "description": "Internationally recognized sites of significance.",
+    "icon": "🌍",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1200&q=80",
+      "alt": "UNESCO World Heritage Sites in Bangladesh",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 3
+  }
+]

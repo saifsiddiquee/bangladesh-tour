@@ -1,0 +1,162 @@
+[
+  {
+    "id": "div-01",
+    "name": "Dhaka",
+    "slug": "dhaka",
+    "description": "The heart of Bangladesh, rich in history, bustling cityscapes, and vibrant culture.",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80",
+      "alt": "Dhaka City",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 2,
+    "featured": true,
+    "coordinates": {
+      "lat": 23.8103,
+      "lng": 90.4125
+    }
+  },
+  {
+    "id": "div-02",
+    "name": "Chittagong",
+    "slug": "chittagong",
+    "description": "Home to the world's longest sea beach, beautiful hills, and vast lakes.",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80",
+      "alt": "Chittagong Coast",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 5,
+    "featured": true,
+    "coordinates": {
+      "lat": 22.3569,
+      "lng": 91.7832
+    }
+  },
+  {
+    "id": "div-03",
+    "name": "Sylhet",
+    "slug": "sylhet",
+    "description": "Land of two leaves and a bud, featuring endless tea gardens and natural beauty.",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=1200&q=80",
+      "alt": "Sylhet Tea Gardens",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 5,
+    "featured": true,
+    "coordinates": {
+      "lat": 24.8949,
+      "lng": 91.8687
+    }
+  },
+  {
+    "id": "div-04",
+    "name": "Rajshahi",
+    "slug": "rajshahi",
+    "description": "The silk city of Bangladesh, famous for archaeological sites and mango orchards.",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1200&q=80",
+      "alt": "Rajshahi Heritage",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 2,
+    "featured": false,
+    "coordinates": {
+      "lat": 24.3745,
+      "lng": 88.6042
+    }
+  },
+  {
+    "id": "div-05",
+    "name": "Khulna",
+    "slug": "khulna",
+    "description": "Gateway to the Sundarbans and rich in UNESCO World Heritage sites.",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=80",
+      "alt": "Khulna Nature",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 3,
+    "featured": true,
+    "coordinates": {
+      "lat": 22.8456,
+      "lng": 89.5403
+    }
+  },
+  {
+    "id": "div-06",
+    "name": "Barisal",
+    "slug": "barisal",
+    "description": "The Venice of Bengal, interwoven with rivers and floating markets.",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=1200&q=80",
+      "alt": "Barisal Rivers",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 1,
+    "featured": false,
+    "coordinates": {
+      "lat": 22.701,
+      "lng": 90.3535
+    }
+  },
+  {
+    "id": "div-07",
+    "name": "Rangpur",
+    "slug": "rangpur",
+    "description": "Known for its historical palaces and natural landscapes in the north.",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=80",
+      "alt": "Rangpur Landscapes",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 0,
+    "featured": false,
+    "coordinates": {
+      "lat": 25.7439,
+      "lng": 89.2752
+    }
+  },
+  {
+    "id": "div-08",
+    "name": "Mymensingh",
+    "slug": "mymensingh",
+    "description": "Rich in cultural heritage and natural forestry near the Garo Hills.",
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1200&q=80",
+      "alt": "Mymensingh Nature",
+      "photographer": {
+        "name": "Unsplash Contributor",
+        "profileUrl": "https://unsplash.com/"
+      }
+    },
+    "destinationCount": 0,
+    "featured": false,
+    "coordinates": {
+      "lat": 24.7471,
+      "lng": 90.4203
+    }
+  }
+]
