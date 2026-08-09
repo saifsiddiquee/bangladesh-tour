@@ -69,16 +69,9 @@ export function HeroSection({ destinations }: HeroSectionProps) {
           animate="visible"
           className="flex flex-col items-center max-w-4xl"
         >
-          <motion.span
-            variants={heroSubtitle}
-            className="mb-4 text-sm font-medium uppercase tracking-widest text-paddy-gold md:text-base font-body"
-          >
-            Official Travel & Tourism Guide
-          </motion.span>
-          
-          <h1 className="mb-6 flex flex-wrap justify-center gap-x-4 gap-y-2 text-5xl font-bold leading-tight text-white md:text-7xl lg:text-8xl font-display text-shadow-lg">
+          <h1 className="mb-6 flex flex-wrap justify-center gap-x-4 md:gap-x-6 gap-y-2 text-5xl font-extrabold leading-tight md:text-7xl lg:text-8xl font-display tracking-tight">
             {['Bangladesh', 'Tourism'].map((word, i) => (
-              <motion.span key={i} variants={heroWord}>
+              <motion.span key={i} variants={heroWord} className="liquid-glass-text inline-block">
                 {word}
               </motion.span>
             ))}
@@ -88,7 +81,7 @@ export function HeroSection({ destinations }: HeroSectionProps) {
             variants={heroSubtitle}
             className="mb-10 max-w-2xl text-lg text-river-mist md:text-xl lg:text-2xl font-body text-shadow"
           >
-            Your ultimate guide for Bangladesh travel, tour packages, pristine beaches, ancient UNESCO heritage, and nature safaris.
+            Your ultimate guide for Bangladesh travel, pristine beaches, ancient UNESCO heritage, and nature safaris.
           </motion.p>
 
           <motion.div variants={heroCta} className="flex flex-wrap justify-center gap-4">

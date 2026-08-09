@@ -41,20 +41,20 @@ export function FaqSection() {
   };
 
   return (
-    <section className="w-full py-16 md:py-24 bg-white dark:bg-monsoon-slate/40 border-t border-slate-100 dark:border-slate-800">
+    <section className="w-full py-16 md:py-24 bg-white dark:bg-monsoon-slate/60 border-t border-slate-100 dark:border-slate-800">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
       <div className="max-w-4xl mx-auto px-6">
         <div className="text-center mb-12">
-          <span className="text-sm font-semibold tracking-wider text-sundarbans uppercase mb-2 block">
+          <span className="text-sm font-semibold tracking-wider text-sundarbans dark:text-emerald-400 uppercase mb-2 block">
             Frequently Asked Questions
           </span>
           <h2 className="font-display text-3xl md:text-5xl font-bold text-monsoon-slate dark:text-white">
             Bangladesh Tourism & Travel FAQs
           </h2>
-          <p className="mt-4 text-slate-600 dark:text-slate-300 text-lg">
+          <p className="mt-4 text-slate-700 dark:text-slate-300 text-lg">
             Everything you need to plan your trip, tour packages, and travel itineraries in Bangladesh.
           </p>
         </div>
@@ -70,17 +70,16 @@ export function FaqSection() {
                 <button
                   type="button"
                   onClick={() => toggleFaq(index)}
-                  className="w-full px-6 py-5 flex items-center justify-between text-left font-display font-semibold text-lg text-monsoon-slate dark:text-white hover:text-sundarbans transition-colors bg-slate-50/50 dark:bg-monsoon-slate/80"
+                  className="w-full px-6 py-5 flex items-center justify-between text-left font-display font-semibold text-lg text-monsoon-slate dark:text-white hover:text-sundarbans dark:hover:text-emerald-400 transition-colors bg-slate-50/80 dark:bg-monsoon-slate/80"
                 >
                   <span>{faq.question}</span>
                   <ChevronDown
-                    className={`w-5 h-5 ml-4 shrink-0 text-sundarbans transition-transform duration-300 ${
-                      isOpen ? 'rotate-180' : ''
-                    }`}
+                    className={`w-5 h-5 ml-4 shrink-0 text-sundarbans dark:text-emerald-400 transition-transform duration-300 ${isOpen ? 'rotate-180' : ''
+                      }`}
                   />
                 </button>
                 {isOpen && (
-                  <div className="px-6 py-4 text-slate-600 dark:text-slate-300 leading-relaxed bg-white dark:bg-monsoon-slate/40 border-t border-slate-100 dark:border-slate-800">
+                  <div className="px-6 py-4 text-slate-700 dark:text-slate-300 leading-relaxed bg-white dark:bg-monsoon-slate/40 border-t border-slate-100 dark:border-slate-800">
                     {faq.answer}
                   </div>
                 )}

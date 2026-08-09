@@ -127,7 +127,7 @@ export function Footer() {
 
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-gray-400">
           <p>
-            Photos sourced from <a href="https://unsplash.com/?utm_source=beautiful_bangladesh&utm_medium=referral" target="_blank" rel="noopener noreferrer" className="text-white hover:text-paddy-gold underline decoration-gray-500">Unsplash</a>.
+            Photos sourced from various sources.
           </p>
           <div className="flex flex-col md:flex-row items-center gap-2">
             <p>Made with ❤️ for Bangladesh by <a href="https://saifsiddiquee.qzz.io" target="_blank" rel="noopener noreferrer" className="text-white hover:text-paddy-gold underline decoration-gray-500">Saif</a></p>
