@@ -30,14 +30,28 @@ export function Header() {
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <Link
             href="/"
-            className={cn(
-              "font-display text-2xl font-extrabold bg-clip-text text-transparent transition-all duration-300 tracking-tight",
-              isScrolled
-                ? "bg-gradient-to-r from-paddy-gold-dark via-monsoon-slate to-paddy-gold-dark"
-                : "bg-gradient-to-r from-paddy-gold via-white to-paddy-gold drop-shadow-md"
-            )}
+            className="flex items-center gap-2.5 group"
           >
-            Bangladesh Tour
+            <span
+              className={cn(
+                "font-display text-2xl font-extrabold bg-clip-text text-transparent transition-all duration-300 tracking-tight",
+                isScrolled
+                  ? "bg-gradient-to-r from-paddy-gold-dark via-monsoon-slate to-paddy-gold-dark"
+                  : "bg-gradient-to-r from-paddy-gold via-white to-paddy-gold drop-shadow-md"
+              )}
+            >
+              Bangladesh Tour
+            </span>
+            <span
+              className={cn(
+                "text-[9px] font-extrabold uppercase tracking-widest px-2 py-0.5 rounded-full border transition-all duration-300 select-none",
+                isScrolled
+                  ? "bg-red-500/10 text-red-600 border-red-500/30 dark:bg-red-500/20 dark:text-red-400 dark:border-red-400/30"
+                  : "bg-red-500/20 text-red-100 border-red-400/40 backdrop-blur-md shadow-sm"
+              )}
+            >
+              Beta
+            </span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-8">
